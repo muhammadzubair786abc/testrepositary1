@@ -1,0 +1,19 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "first database",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "author": "Muhammad Zubair",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.2",
+    "nodemon": "^2.0.20"
+  }
+}
